@@ -1,0 +1,771 @@
+fileFormatVersion: 2
+guid: 77f223f3e1ffd8c4e9d0096f05a43075
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4108196704042288584
+    second: Asap_sheet_4x4_0
+  - first:
+      213: -8781056172100809310
+    second: Asap_sheet_4x4_1
+  - first:
+      213: -9032584870991499102
+    second: Asap_sheet_4x4_2
+  - first:
+      213: 3988053940562674869
+    second: Asap_sheet_4x4_3
+  - first:
+      213: 7618771582770893698
+    second: Asap_sheet_4x4_4
+  - first:
+      213: -5705256073788361422
+    second: Asap_sheet_4x4_5
+  - first:
+      213: -6474877060973012809
+    second: Asap_sheet_4x4_6
+  - first:
+      213: 1098636162978865637
+    second: Asap_sheet_4x4_7
+  - first:
+      213: -3359408599481263280
+    second: Asap_sheet_4x4_8
+  - first:
+      213: 1541587368015709180
+    second: Asap_sheet_4x4_9
+  - first:
+      213: -6772753194537930859
+    second: Asap_sheet_4x4_10
+  - first:
+      213: -618397266848895576
+    second: Asap_sheet_4x4_11
+  - first:
+      213: 5833935384706711217
+    second: Asap_sheet_4x4_12
+  - first:
+      213: -2698296789543816156
+    second: Asap_sheet_4x4_13
+  - first:
+      213: -3545823108252712587
+    second: Asap_sheet_4x4_14
+  - first:
+      213: -3574501547980136209
+    second: Asap_sheet_4x4_15
+  - first:
+      213: -7662785240116917164
+    second: Asap_sheet_4x4_16
+  - first:
+      213: -7500682717952384070
+    second: Asap_sheet_4x4_17
+  - first:
+      213: 57532741109436148
+    second: Asap_sheet_4x4_18
+  - first:
+      213: -1882579831408202798
+    second: Asap_sheet_4x4_19
+  - first:
+      213: 314456464738898437
+    second: Asap_sheet_4x4_20
+  - first:
+      213: -6906705271056776327
+    second: Asap_sheet_4x4_21
+  - first:
+      213: 304317304741593489
+    second: Asap_sheet_4x4_22
+  - first:
+      213: 3587706900333669878
+    second: Asap_sheet_4x4_23
+  - first:
+      213: -7395197554255267351
+    second: Asap_sheet_4x4_24
+  - first:
+      213: 9025190618504989839
+    second: Asap_sheet_4x4_25
+  - first:
+      213: -3051628726806515501
+    second: Asap_sheet_4x4_26
+  - first:
+      213: 7826114844780109360
+    second: Asap_sheet_4x4_27
+  - first:
+      213: -6737081507585431375
+    second: Asap_sheet_4x4_28
+  - first:
+      213: 4602296208206724049
+    second: Asap_sheet_4x4_29
+  - first:
+      213: 4686585841543045902
+    second: Asap_sheet_4x4_30
+  - first:
+      213: 6543169179969956453
+    second: Asap_sheet_4x4_31
+  - first:
+      213: -1608055025207600959
+    second: Asap_sheet_4x4_32
+  - first:
+      213: -8942990241828361983
+    second: Asap_sheet_4x4_33
+  - first:
+      213: -1102148095727612506
+    second: Asap_sheet_4x4_34
+  - first:
+      213: 7750825456713330564
+    second: Asap_sheet_4x4_35
+  - first:
+      213: 2033209945613651823
+    second: Asap_sheet_4x4_36
+  - first:
+      213: -3301701205394270685
+    second: Asap_sheet_4x4_37
+  - first:
+      213: 2293734475894104780
+    second: Asap_sheet_4x4_38
+  - first:
+      213: 2092869752321183201
+    second: Asap_sheet_4x4_39
+  - first:
+      213: 6187702509000779731
+    second: Asap_sheet_4x4_40
+  - first:
+      213: -4413390183293981454
+    second: Asap_sheet_4x4_41
+  - first:
+      213: 645781344579507831
+    second: Asap_sheet_4x4_42
+  - first:
+      213: -7586820774634980300
+    second: Asap_sheet_4x4_43
+  - first:
+      213: 7403354530762614492
+    second: Asap_sheet_4x4_44
+  - first:
+      213: -2816614714843517582
+    second: Asap_sheet_4x4_45
+  - first:
+      213: 6168332574057132245
+    second: Asap_sheet_4x4_46
+  - first:
+      213: -532468872761130235
+    second: Asap_sheet_4x4_47
+  - first:
+      213: 791871943374764274
+    second: Asap_sheet_4x4_48
+  - first:
+      213: 180079798095105511
+    second: Asap_sheet_4x4_49
+  - first:
+      213: -5537458916643895776
+    second: Asap_sheet_4x4_50
+  - first:
+      213: -8987970790330971705
+    second: Asap_sheet_4x4_51
+  - first:
+      213: -5736437713450648219
+    second: Asap_sheet_4x4_52
+  - first:
+      213: 1720301931208822909
+    second: Asap_sheet_4x4_53
+  - first:
+      213: 4633304025454411989
+    second: Asap_sheet_4x4_54
+  - first:
+      213: -6726073470959952650
+    second: Asap_sheet_4x4_55
+  - first:
+      213: -2926711985010699761
+    second: Asap_sheet_4x4_56
+  - first:
+      213: 715915716747785075
+    second: Asap_sheet_4x4_57
+  - first:
+      213: -6219909089533961811
+    second: Asap_sheet_4x4_58
+  - first:
+      213: -6977235093187964711
+    second: Asap_sheet_4x4_59
+  - first:
+      213: -4584662300158511812
+    second: Asap_sheet_4x4_60
+  - first:
+      213: 3993157238646800381
+    second: Asap_sheet_4x4_61
+  - first:
+      213: -6859932700918232262
+    second: Asap_sheet_4x4_62
+  - first:
+      213: 5761830277134062112
+    second: Asap_sheet_4x4_63
+  - first:
+      213: -6977427847248123869
+    second: Asap_sheet_4x4_64
+  - first:
+      213: 6580410951361702772
+    second: Asap_sheet_4x4_65
+  - first:
+      213: -1335171819609042392
+    second: Asap_sheet_4x4_66
+  - first:
+      213: -2663233344112914884
+    second: Asap_sheet_4x4_67
+  - first:
+      213: 5585582068990377784
+    second: Asap_sheet_4x4_68
+  - first:
+      213: -3801470932950380537
+    second: Asap_sheet_4x4_69
+  - first:
+      213: -1492132294375217782
+    second: Asap_sheet_4x4_70
+  - first:
+      213: 3888465796000185363
+    second: Asap_sheet_4x4_71
+  - first:
+      213: 1128171097958721698
+    second: Asap_sheet_4x4_72
+  - first:
+      213: -6981128732312938016
+    second: Asap_sheet_4x4_73
+  - first:
+      213: 4343042803442706041
+    second: Asap_sheet_4x4_74
+  - first:
+      213: -2405734327990555958
+    second: Asap_sheet_4x4_75
+  - first:
+      213: 7774673593613718200
+    second: Asap_sheet_4x4_76
+  - first:
+      213: 7570229459227597322
+    second: Asap_sheet_4x4_77
+  - first:
+      213: -3311251322048605405
+    second: Asap_sheet_4x4_78
+  - first:
+      213: 8217520871610353202
+    second: Asap_sheet_4x4_79
+  - first:
+      213: 404839554742874433
+    second: Asap_sheet_4x4_80
+  - first:
+      213: -3461843005065630549
+    second: Asap_sheet_4x4_81
+  - first:
+      213: 6556329839723444072
+    second: Asap_sheet_4x4_82
+  - first:
+      213: 8253054910945078978
+    second: Asap_sheet_4x4_83
+  - first:
+      213: -2224512000870915654
+    second: Asap_sheet_4x4_84
+  - first:
+      213: 5985727138613192777
+    second: Asap_sheet_4x4_85
+  - first:
+      213: 154393635050746342
+    second: Asap_sheet_4x4_86
+  - first:
+      213: 925525836427801952
+    second: Asap_sheet_4x4_87
+  - first:
+      213: 3762047705108159279
+    second: Asap_sheet_4x4_88
+  - first:
+      213: -7064738801303966294
+    second: Asap_sheet_4x4_89
+  - first:
+      213: -881383709568114574
+    second: Asap_sheet_4x4_90
+  - first:
+      213: 2661539329002245069
+    second: Asap_sheet_4x4_91
+  - first:
+      213: 6016815591986361023
+    second: Asap_sheet_4x4_92
+  - first:
+      213: 1513582846345896207
+    second: Asap_sheet_4x4_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Asap_sheet_4x4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c50fdbd22f330930800000000000000
+      internalID: 4108196704042288584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asap_sheet_4x4_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1200
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad0e2d7feb632680800000000000000
+      internalID: -8781056172100809310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asap_sheet_4x4_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1200
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0fbf0aaefc5a280800000000000000
+      internalID: -9032584870991499102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asap_sheet_4x4_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1200
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4c558ede9685730800000000000000
+      internalID: 3988053940562674869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asap_sheet_4x4_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28356e773605bb960800000000000000
+      internalID: 7618771582770893698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asap_sheet_4x4_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 800
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235743124dbd2d0b0800000000000000
+      internalID: -5705256073788361422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asap_sheet_4x4_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 800
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8d0605e9d9426a0800000000000000
+      internalID: -6474877060973012809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asap_sheet_4x4_7
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 800
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1e0c7f4c32f3f00800000000000000
+      internalID: 1098636162978865637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asap_sheet_4x4_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bd68c7dabf061d0800000000000000
+      internalID: -3359408599481263280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asap_sheet_4x4_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 400
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf34ec42b81d46510800000000000000
+      internalID: 1541587368015709180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asap_sheet_4x4_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 400
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fac286ad85202a0800000000000000
+      internalID: -6772753194537930859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asap_sheet_4x4_11
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 400
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad266356f20b67f0800000000000000
+      internalID: -618397266848895576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asap_sheet_4x4_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be7608a25d46f050800000000000000
+      internalID: 5833935384706711217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asap_sheet_4x4_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424f9a8bd59bd8ad0800000000000000
+      internalID: -2698296789543816156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asap_sheet_4x4_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571c93c6ba4bacec0800000000000000
+      internalID: -3545823108252712587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asap_sheet_4x4_15
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe06f87d7c1d46ec0800000000000000
+      internalID: -3574501547980136209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dae58ad29eb619b45a804c03bf11dd48
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":512.0,"y":400.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Asap_sheet_4x4_0: 4108196704042288584
+      Asap_sheet_4x4_1: -8781056172100809310
+      Asap_sheet_4x4_10: -6772753194537930859
+      Asap_sheet_4x4_11: -618397266848895576
+      Asap_sheet_4x4_12: 5833935384706711217
+      Asap_sheet_4x4_13: -2698296789543816156
+      Asap_sheet_4x4_14: -3545823108252712587
+      Asap_sheet_4x4_15: -3574501547980136209
+      Asap_sheet_4x4_2: -9032584870991499102
+      Asap_sheet_4x4_3: 3988053940562674869
+      Asap_sheet_4x4_4: 7618771582770893698
+      Asap_sheet_4x4_5: -5705256073788361422
+      Asap_sheet_4x4_6: -6474877060973012809
+      Asap_sheet_4x4_7: 1098636162978865637
+      Asap_sheet_4x4_8: -3359408599481263280
+      Asap_sheet_4x4_9: 1541587368015709180
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

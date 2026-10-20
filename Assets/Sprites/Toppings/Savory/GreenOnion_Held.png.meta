@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: d8d42bf924cce9543999c2efd65c6eac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7954929766625655373
+    second: GreenOnion_Held_0
+  - first:
+      213: 2803820628536727112
+    second: GreenOnion_Held_1
+  - first:
+      213: -3785952411498252734
+    second: GreenOnion_Held_2
+  - first:
+      213: -8167285744516949729
+    second: GreenOnion_Held_3
+  - first:
+      213: 8276750295655485705
+    second: GreenOnion_Held_4
+  - first:
+      213: -1181818363658735432
+    second: GreenOnion_Held_5
+  - first:
+      213: -8421677699137823470
+    second: GreenOnion_Held_6
+  - first:
+      213: 8558189597165406970
+    second: GreenOnion_Held_7
+  - first:
+      213: 6482290873785743271
+    second: GreenOnion_Held_8
+  - first:
+      213: 7185874851868387743
+    second: GreenOnion_Held_9
+  - first:
+      213: 444383114297817671
+    second: GreenOnion_Held_10
+  - first:
+      213: 124317919986674513
+    second: GreenOnion_Held_11
+  - first:
+      213: -5816219956690545379
+    second: GreenOnion_Held_12
+  - first:
+      213: -3144571764211761304
+    second: GreenOnion_Held_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreenOnion_Held_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 39
+        width: 1213
+        height: 1167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a37e8c976956e60800000000000000
+      internalID: 7954929766625655373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenOnion_Held_1
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1060
+        width: 253
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84618d1a10c29e620800000000000000
+      internalID: 2803820628536727112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenOnion_Held_2
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 984
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246fc103758957bc0800000000000000
+      internalID: -3785952411498252734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenOnion_Held_3
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 986
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1994f233e8f7ae80800000000000000
+      internalID: -8167285744516949729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenOnion_Held_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 240
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9019723ba8cecd270800000000000000
+      internalID: 8276750295655485705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenOnion_Held_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 228
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b07615b576599fe0800000000000000
+      internalID: -1181818363658735432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenOnion_Held_6
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 240
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d9f0aa0c0302b80800000000000000
+      internalID: -8421677699137823470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenOnion_Held_7
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 184
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afacc7b681cc4c670800000000000000
+      internalID: 8558189597165406970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenOnion_Held_8
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 172
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a771ce7439b5f950800000000000000
+      internalID: 6482290873785743271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenOnion_Held_9
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 178
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99270afa1b59b360800000000000000
+      internalID: 7185874851868387743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenOnion_Held_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 163
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a37e78614ca2600800000000000000
+      internalID: 444383114297817671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenOnion_Held_11
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 146
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b65045d7aa9b100800000000000000
+      internalID: 124317919986674513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenOnion_Held_12
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 132
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d151ce9d3c2a84fa0800000000000000
+      internalID: -5816219956690545379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenOnion_Held_13
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 136
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f3f6f14ac3c54d0800000000000000
+      internalID: -3144571764211761304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GreenOnion_Held_0: 7954929766625655373
+      GreenOnion_Held_1: 2803820628536727112
+      GreenOnion_Held_10: 444383114297817671
+      GreenOnion_Held_11: 124317919986674513
+      GreenOnion_Held_12: -5816219956690545379
+      GreenOnion_Held_13: -3144571764211761304
+      GreenOnion_Held_2: -3785952411498252734
+      GreenOnion_Held_3: -8167285744516949729
+      GreenOnion_Held_4: 8276750295655485705
+      GreenOnion_Held_5: -1181818363658735432
+      GreenOnion_Held_6: -8421677699137823470
+      GreenOnion_Held_7: 8558189597165406970
+      GreenOnion_Held_8: 6482290873785743271
+      GreenOnion_Held_9: 7185874851868387743
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

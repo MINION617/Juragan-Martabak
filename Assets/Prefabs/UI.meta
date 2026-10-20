@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Prefabs/UI.meta
 guid: b222e804ec46b0a4e9be035cc02aa62f
+========
+guid: 9cfef071c8214664995ac5e88ec5933c
+>>>>>>>> db8b0b299a221e2c3ea4903aa56a5ad70c34c58c:Assets/api.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
