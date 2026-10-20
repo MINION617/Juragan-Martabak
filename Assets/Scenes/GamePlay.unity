@@ -732,7 +732,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 784776750}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 87900ef2327963c448a181b8e9111142, type: 3}
   m_Name: 
@@ -821,7 +821,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 838820478}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 87900ef2327963c448a181b8e9111142, type: 3}
   m_Name: 
@@ -985,7 +985,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 894784964}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 87900ef2327963c448a181b8e9111142, type: 3}
   m_Name: 
@@ -1074,7 +1074,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 918589888}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 87900ef2327963c448a181b8e9111142, type: 3}
   m_Name: 
@@ -1129,6 +1129,7 @@ GameObject:
   - component: {fileID: 1173700528}
   - component: {fileID: 1173700527}
   - component: {fileID: 1173700529}
+  - component: {fileID: 1173700530}
   m_Layer: 0
   m_Name: GameManajer
   m_TagString: Untagged
@@ -1192,6 +1193,52 @@ MonoBehaviour:
   ikonMalam: {fileID: -7025765670920087729, guid: 57dddc5d3295c3249b636b45e9de4914, type: 3}
   soreMulai: 15
   malamMulai: 18
+--- !u!114 &1173700530
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1173700526}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c52a50fc60d2073428fdce71f58d2eb8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ToppingHeldOnly
+  canvas: {fileID: 31631378}
+  toppingSlots:
+  - nama: Cokelat
+    areaKlik: {fileID: 918589889}
+    spriteHeld: {fileID: 21300000, guid: e3df181773de47e4b8e8405fcdb25433, type: 3}
+  - nama: Keju
+    areaKlik: {fileID: 1199710425}
+    spriteHeld: {fileID: 21300000, guid: d3c55bdb1f051474bb05c4e883015d28, type: 3}
+  - nama: Kacang
+    areaKlik: {fileID: 1253385716}
+    spriteHeld: {fileID: 21300000, guid: 0750d09ae1e2564418568ca848396335, type: 3}
+  - nama: Selai
+    areaKlik: {fileID: 838820479}
+    spriteHeld: {fileID: 21300000, guid: 25e3c649a5c10d94d9fc420093ff13ae, type: 3}
+  - nama: Ayam
+    areaKlik: {fileID: 1791815372}
+    spriteHeld: {fileID: 21300000, guid: 4b5efc3a579bcf342a9de27fa83e813c, type: 3}
+  - nama: Kornet
+    areaKlik: {fileID: 1613983827}
+    spriteHeld: {fileID: 21300000, guid: dd3b3571fd753ef4a9bb1b905ecd0e11, type: 3}
+  - nama: Daging
+    areaKlik: {fileID: 2144858394}
+    spriteHeld: {fileID: 21300000, guid: c298a5eb84075584983043c762a3c1a8, type: 3}
+  - nama: TelurAyam
+    areaKlik: {fileID: 784776751}
+    spriteHeld: {fileID: 21300000, guid: 884f63f9cfa290847aec3fe78b2b8599, type: 3}
+  - nama: TelurBebek
+    areaKlik: {fileID: 2068719481}
+    spriteHeld: {fileID: 21300000, guid: b4dfb10b5e6d08f43ba2df72c20278ce, type: 3}
+  - nama: DaunBawang
+    areaKlik: {fileID: 894784965}
+    spriteHeld: {fileID: 21300000, guid: d8d42bf924cce9543999c2efd65c6eac, type: 3}
+  ukuranHeld: 96
+  offsetKursor: {x: 35, y: 35}
 --- !u!1 &1199710424
 GameObject:
   m_ObjectHideFlags: 0
@@ -1237,7 +1284,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1199710424}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 87900ef2327963c448a181b8e9111142, type: 3}
   m_Name: 
@@ -1405,7 +1452,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1253385715}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 87900ef2327963c448a181b8e9111142, type: 3}
   m_Name: 
@@ -1605,7 +1652,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1613983826}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 87900ef2327963c448a181b8e9111142, type: 3}
   m_Name: 
@@ -1694,7 +1741,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1791815371}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 87900ef2327963c448a181b8e9111142, type: 3}
   m_Name: 
@@ -2152,7 +2199,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2068719480}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 87900ef2327963c448a181b8e9111142, type: 3}
   m_Name: 
@@ -2417,7 +2464,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2144858393}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 87900ef2327963c448a181b8e9111142, type: 3}
   m_Name: 
