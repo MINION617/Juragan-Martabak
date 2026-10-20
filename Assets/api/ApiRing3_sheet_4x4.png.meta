@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: 66014a3313188a046916e652b8a81cf2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5164587625432847787
+    second: ApiRing3_sheet_4x4_0
+  - first:
+      213: -784280355930924864
+    second: ApiRing3_sheet_4x4_1
+  - first:
+      213: -123254373168269569
+    second: ApiRing3_sheet_4x4_2
+  - first:
+      213: -7039150206601065718
+    second: ApiRing3_sheet_4x4_3
+  - first:
+      213: 5130210242193053937
+    second: ApiRing3_sheet_4x4_4
+  - first:
+      213: -7025184657162759049
+    second: ApiRing3_sheet_4x4_5
+  - first:
+      213: -8073404043224690008
+    second: ApiRing3_sheet_4x4_6
+  - first:
+      213: -804061668034568167
+    second: ApiRing3_sheet_4x4_7
+  - first:
+      213: -1907050595231089808
+    second: ApiRing3_sheet_4x4_8
+  - first:
+      213: -8219710588093829354
+    second: ApiRing3_sheet_4x4_9
+  - first:
+      213: 5467500145617710617
+    second: ApiRing3_sheet_4x4_10
+  - first:
+      213: -4077696229124503726
+    second: ApiRing3_sheet_4x4_11
+  - first:
+      213: 8499461352727280603
+    second: ApiRing3_sheet_4x4_12
+  - first:
+      213: 2914624674382993481
+    second: ApiRing3_sheet_4x4_13
+  - first:
+      213: -3825378004132350980
+    second: ApiRing3_sheet_4x4_14
+  - first:
+      213: 3423153522693702370
+    second: ApiRing3_sheet_4x4_15
+  - first:
+      213: 7615098256553642129
+    second: ApiRing3_sheet_4x4_16
+  - first:
+      213: -2030934758607808314
+    second: ApiRing3_sheet_4x4_17
+  - first:
+      213: -2768826002331040496
+    second: ApiRing3_sheet_4x4_18
+  - first:
+      213: 4956033676928578718
+    second: ApiRing3_sheet_4x4_19
+  - first:
+      213: -7908870546534476119
+    second: ApiRing3_sheet_4x4_20
+  - first:
+      213: -5552119969249284093
+    second: ApiRing3_sheet_4x4_21
+  - first:
+      213: 4387388016496489292
+    second: ApiRing3_sheet_4x4_22
+  - first:
+      213: -238970427599464188
+    second: ApiRing3_sheet_4x4_23
+  - first:
+      213: 4705609205791692424
+    second: ApiRing3_sheet_4x4_24
+  - first:
+      213: 8674827319471799649
+    second: ApiRing3_sheet_4x4_25
+  - first:
+      213: 7589319206231167002
+    second: ApiRing3_sheet_4x4_26
+  - first:
+      213: -6863906708101657955
+    second: ApiRing3_sheet_4x4_27
+  - first:
+      213: 7723780119011395602
+    second: ApiRing3_sheet_4x4_28
+  - first:
+      213: -8885057172250757547
+    second: ApiRing3_sheet_4x4_29
+  - first:
+      213: 6121820265102091907
+    second: ApiRing3_sheet_4x4_30
+  - first:
+      213: 3451763863935436186
+    second: ApiRing3_sheet_4x4_31
+  - first:
+      213: -952307178084117357
+    second: ApiRing3_sheet_4x4_32
+  - first:
+      213: 7057534383566108542
+    second: ApiRing3_sheet_4x4_33
+  - first:
+      213: -2384544136645833903
+    second: ApiRing3_sheet_4x4_34
+  - first:
+      213: -6522412770971900704
+    second: ApiRing3_sheet_4x4_35
+  - first:
+      213: -5415735630110565433
+    second: ApiRing3_sheet_4x4_36
+  - first:
+      213: -5898832750938098434
+    second: ApiRing3_sheet_4x4_37
+  - first:
+      213: 3589304708002835708
+    second: ApiRing3_sheet_4x4_38
+  - first:
+      213: -3217152615324305452
+    second: ApiRing3_sheet_4x4_39
+  - first:
+      213: -841524282000447204
+    second: ApiRing3_sheet_4x4_40
+  - first:
+      213: -1852763765909363209
+    second: ApiRing3_sheet_4x4_41
+  - first:
+      213: 5750091003377373288
+    second: ApiRing3_sheet_4x4_42
+  - first:
+      213: 4011832729317419144
+    second: ApiRing3_sheet_4x4_43
+  - first:
+      213: 4514071490513032832
+    second: ApiRing3_sheet_4x4_44
+  - first:
+      213: -7992540536418884350
+    second: ApiRing3_sheet_4x4_45
+  - first:
+      213: -6398434505187252725
+    second: ApiRing3_sheet_4x4_46
+  - first:
+      213: 8978122783983169759
+    second: ApiRing3_sheet_4x4_47
+  - first:
+      213: -6752218210957357453
+    second: ApiRing3_sheet_4x4_48
+  - first:
+      213: -1335234491783498517
+    second: ApiRing3_sheet_4x4_49
+  - first:
+      213: 7360745372412623422
+    second: ApiRing3_sheet_4x4_50
+  - first:
+      213: 1172149871342374020
+    second: ApiRing3_sheet_4x4_51
+  - first:
+      213: 960368686202630629
+    second: ApiRing3_sheet_4x4_52
+  - first:
+      213: 5371306206948539213
+    second: ApiRing3_sheet_4x4_53
+  - first:
+      213: -5546047713048838015
+    second: ApiRing3_sheet_4x4_54
+  - first:
+      213: 5551976555454435519
+    second: ApiRing3_sheet_4x4_55
+  - first:
+      213: 3738348007395393683
+    second: ApiRing3_sheet_4x4_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ApiRing3_sheet_4x4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba59d49051d4ca740800000000000000
+      internalID: 5164587625432847787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ApiRing3_sheet_4x4_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c89b6ceb2dad15f0800000000000000
+      internalID: -784280355930924864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ApiRing3_sheet_4x4_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6ba46fccc1a4ef0800000000000000
+      internalID: -123254373168269569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ApiRing3_sheet_4x4_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b0dee9e2aef4e90800000000000000
+      internalID: -7039150206601065718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ApiRing3_sheet_4x4_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8dcf4c80b223740800000000000000
+      internalID: 5130210242193053937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ApiRing3_sheet_4x4_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7741a4c76c7818e90800000000000000
+      internalID: -7025184657162759049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ApiRing3_sheet_4x4_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2d3632cc185ff80800000000000000
+      internalID: -8073404043224690008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ApiRing3_sheet_4x4_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910aa4b4c2667d4f0800000000000000
+      internalID: -804061668034568167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ApiRing3_sheet_4x4_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bbd8e669bc885e0800000000000000
+      internalID: -1907050595231089808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ApiRing3_sheet_4x4_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f662025c8bded80800000000000000
+      internalID: -8219710588093829354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ApiRing3_sheet_4x4_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ea0f41a6670eb40800000000000000
+      internalID: 5467500145617710617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ApiRing3_sheet_4x4_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257851952ec1967c0800000000000000
+      internalID: -4077696229124503726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ApiRing3_sheet_4x4_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb7877711724f570800000000000000
+      internalID: 8499461352727280603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ApiRing3_sheet_4x4_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948df22f2b3d27820800000000000000
+      internalID: 2914624674382993481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ApiRing3_sheet_4x4_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3391419f689eac0800000000000000
+      internalID: -3825378004132350980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ApiRing3_sheet_4x4_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e209c30efb718f20800000000000000
+      internalID: 3423153522693702370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5350cd452a637bf40beb4cc762a7dd8e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":256.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      ApiRing3_sheet_4x4_0: 5164587625432847787
+      ApiRing3_sheet_4x4_1: -784280355930924864
+      ApiRing3_sheet_4x4_10: 5467500145617710617
+      ApiRing3_sheet_4x4_11: -4077696229124503726
+      ApiRing3_sheet_4x4_12: 8499461352727280603
+      ApiRing3_sheet_4x4_13: 2914624674382993481
+      ApiRing3_sheet_4x4_14: -3825378004132350980
+      ApiRing3_sheet_4x4_15: 3423153522693702370
+      ApiRing3_sheet_4x4_2: -123254373168269569
+      ApiRing3_sheet_4x4_3: -7039150206601065718
+      ApiRing3_sheet_4x4_4: 5130210242193053937
+      ApiRing3_sheet_4x4_5: -7025184657162759049
+      ApiRing3_sheet_4x4_6: -8073404043224690008
+      ApiRing3_sheet_4x4_7: -804061668034568167
+      ApiRing3_sheet_4x4_8: -1907050595231089808
+      ApiRing3_sheet_4x4_9: -8219710588093829354
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

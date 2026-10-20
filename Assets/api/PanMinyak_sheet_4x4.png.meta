@@ -1,0 +1,1263 @@
+fileFormatVersion: 2
+guid: 9844e3eb79a893740a77fc0e24d17895
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1602579848524336141
+    second: PanMinyak_sheet_4x4_0
+  - first:
+      213: -7968096804257815619
+    second: PanMinyak_sheet_4x4_1
+  - first:
+      213: -7350066639229118181
+    second: PanMinyak_sheet_4x4_2
+  - first:
+      213: 4978331695704004220
+    second: PanMinyak_sheet_4x4_3
+  - first:
+      213: 1056514305473496337
+    second: PanMinyak_sheet_4x4_4
+  - first:
+      213: -4925693538498968807
+    second: PanMinyak_sheet_4x4_5
+  - first:
+      213: -1557744213283032089
+    second: PanMinyak_sheet_4x4_6
+  - first:
+      213: -1157138271742931361
+    second: PanMinyak_sheet_4x4_7
+  - first:
+      213: 3332585797824879744
+    second: PanMinyak_sheet_4x4_8
+  - first:
+      213: -897725292271218853
+    second: PanMinyak_sheet_4x4_9
+  - first:
+      213: 2509140353459569843
+    second: PanMinyak_sheet_4x4_10
+  - first:
+      213: 7966911903656975739
+    second: PanMinyak_sheet_4x4_11
+  - first:
+      213: 4499871528705404247
+    second: PanMinyak_sheet_4x4_12
+  - first:
+      213: -5528097352756659509
+    second: PanMinyak_sheet_4x4_13
+  - first:
+      213: 6528327693695442151
+    second: PanMinyak_sheet_4x4_14
+  - first:
+      213: 1242899471250609272
+    second: PanMinyak_sheet_4x4_15
+  - first:
+      213: -9163662189630010687
+    second: PanMinyak_sheet_4x4_16
+  - first:
+      213: -752441676255439826
+    second: PanMinyak_sheet_4x4_17
+  - first:
+      213: -1312815357369561614
+    second: PanMinyak_sheet_4x4_18
+  - first:
+      213: -7832478550253735083
+    second: PanMinyak_sheet_4x4_19
+  - first:
+      213: 1736219985262363420
+    second: PanMinyak_sheet_4x4_20
+  - first:
+      213: 2435860162716049284
+    second: PanMinyak_sheet_4x4_21
+  - first:
+      213: -2726199977310934812
+    second: PanMinyak_sheet_4x4_22
+  - first:
+      213: 1193259562606084514
+    second: PanMinyak_sheet_4x4_23
+  - first:
+      213: 4087261873881757489
+    second: PanMinyak_sheet_4x4_24
+  - first:
+      213: -8399517353220552745
+    second: PanMinyak_sheet_4x4_25
+  - first:
+      213: -5166416468328330760
+    second: PanMinyak_sheet_4x4_26
+  - first:
+      213: 962462225531778397
+    second: PanMinyak_sheet_4x4_27
+  - first:
+      213: -4524458114721040151
+    second: PanMinyak_sheet_4x4_28
+  - first:
+      213: 7523587805713932290
+    second: PanMinyak_sheet_4x4_29
+  - first:
+      213: 8008397054402348361
+    second: PanMinyak_sheet_4x4_30
+  - first:
+      213: 7299857789893052873
+    second: PanMinyak_sheet_4x4_31
+  - first:
+      213: -2436988275646732884
+    second: PanMinyak_sheet_4x4_32
+  - first:
+      213: 1668397712230908616
+    second: PanMinyak_sheet_4x4_33
+  - first:
+      213: 2633102574208116860
+    second: PanMinyak_sheet_4x4_34
+  - first:
+      213: -4310093686301752960
+    second: PanMinyak_sheet_4x4_35
+  - first:
+      213: -208781511715863382
+    second: PanMinyak_sheet_4x4_36
+  - first:
+      213: 1671078215517844518
+    second: PanMinyak_sheet_4x4_37
+  - first:
+      213: 2063207113970931598
+    second: PanMinyak_sheet_4x4_38
+  - first:
+      213: -3037299778758090972
+    second: PanMinyak_sheet_4x4_39
+  - first:
+      213: 3090743938690760057
+    second: PanMinyak_sheet_4x4_40
+  - first:
+      213: -1249229001870578377
+    second: PanMinyak_sheet_4x4_41
+  - first:
+      213: 6478073687387946279
+    second: PanMinyak_sheet_4x4_42
+  - first:
+      213: -6981947204631064952
+    second: PanMinyak_sheet_4x4_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1214
+        width: 459
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c0e73a1e18d3610800000000000000
+      internalID: 1602579848524336141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1469
+        width: 61
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3a94e5c22ab6190800000000000000
+      internalID: -7968096804257815619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_2
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1214
+        width: 459
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b199c4d75515ff990800000000000000
+      internalID: -7350066639229118181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1482
+        width: 59
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7651880d46961540800000000000000
+      internalID: 4978331695704004220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_4
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1214
+        width: 459
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115cdd5c92e79ae00800000000000000
+      internalID: 1056514305473496337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_5
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1495
+        width: 55
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913055df2db64abb0800000000000000
+      internalID: -4925693538498968807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_6
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1413
+        width: 55
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3385c24e7c16ae0800000000000000
+      internalID: -1557744213283032089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_7
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1472
+        width: 59
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ec0c46fd401ffe0800000000000000
+      internalID: -1157138271742931361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_8
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1444
+        width: 58
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c1dd65029bf3e20800000000000000
+      internalID: 3332585797824879744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_9
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1214
+        width: 459
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f4a406a93aa83f0800000000000000
+      internalID: -897725292271218853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1024
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b44e838bd142d220800000000000000
+      internalID: 2509140353459569843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1084
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d1e467a28209e60800000000000000
+      internalID: 7966911903656975739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1057
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d21636051c27e30800000000000000
+      internalID: 4499871528705404247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_13
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1010
+        width: 67
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca792d2fb04843b0800000000000000
+      internalID: -5528097352756659509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_14
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 814
+        width: 459
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecdf08e277499a50800000000000000
+      internalID: 6528327693695442151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_15
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1035
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874d963eb7aaf3110800000000000000
+      internalID: 1242899471250609272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_16
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1069
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cacc692ac124d080800000000000000
+      internalID: -9163662189630010687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_17
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1022
+        width: 65
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e245894384ace85f0800000000000000
+      internalID: -752441676255439826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_18
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 814
+        width: 459
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd4f485361f7cde0800000000000000
+      internalID: -1312815357369561614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_19
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1046
+        width: 49
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553724db1427d4390800000000000000
+      internalID: -7832478550253735083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_20
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1081
+        width: 61
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c134f71b0ea481810800000000000000
+      internalID: 1736219985262363420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_21
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 814
+        width: 459
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f173989e9edc120800000000000000
+      internalID: 2435860162716049284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_22
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1058
+        width: 52
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e824bd80979a2ad0800000000000000
+      internalID: -2726199977310934812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_23
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1095
+        width: 58
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a149f1004f4f8010800000000000000
+      internalID: 1193259562606084514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_24
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 814
+        width: 459
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13738b0e40fd8b830800000000000000
+      internalID: 4087261873881757489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_25
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 414
+        width: 459
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d74f84487bee6b80800000000000000
+      internalID: -8399517353220552745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_26
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 669
+        width: 51
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9cf8b48933d48b0800000000000000
+      internalID: -5166416468328330760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 707
+        width: 54
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55bd867b4a5b5d00800000000000000
+      internalID: 962462225531778397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_28
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 414
+        width: 459
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e83be6f055e531c0800000000000000
+      internalID: -4524458114721040151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_29
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 682
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2002a046f37296860800000000000000
+      internalID: 7523587805713932290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_30
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 414
+        width: 459
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945cfefc0ba832f60800000000000000
+      internalID: 8008397054402348361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_31
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 694
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9817dcbfd4e4560800000000000000
+      internalID: 7299857789893052873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_32
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 414
+        width: 459
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5e84433141e2ed0800000000000000
+      internalID: -2436988275646732884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_33
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 610
+        width: 101
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2099531e6572710800000000000000
+      internalID: 1668397712230908616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_34
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 14
+        width: 459
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7867d827d8aa8420800000000000000
+      internalID: 2633102574208116860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_35
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 313
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081845fc0a87f24c0800000000000000
+      internalID: -4310093686301752960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_36
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 14
+        width: 459
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4c18e32524a1df0800000000000000
+      internalID: -208781511715863382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_37
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 14
+        width: 459
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624b5d388ccd03710800000000000000
+      internalID: 1671078215517844518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_38
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 284
+        width: 63
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87db4650fbf1ac10800000000000000
+      internalID: 2063207113970931598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_39
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 302
+        width: 49
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f50ca81f759d5d0800000000000000
+      internalID: -3037299778758090972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_40
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 245
+        width: 57
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dba5d9c3784ea20800000000000000
+      internalID: 3090743938690760057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_41
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 14
+        width: 459
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d636c67d8d9aee0800000000000000
+      internalID: -1249229001870578377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_42
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 297
+        width: 61
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d309542bdb6e950800000000000000
+      internalID: 6478073687387946279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanMinyak_sheet_4x4_43
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 257
+        width: 60
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e0f6362042b1f90800000000000000
+      internalID: -6981947204631064952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PanMinyak_sheet_4x4_0: 1602579848524336141
+      PanMinyak_sheet_4x4_1: -7968096804257815619
+      PanMinyak_sheet_4x4_10: 2509140353459569843
+      PanMinyak_sheet_4x4_11: 7966911903656975739
+      PanMinyak_sheet_4x4_12: 4499871528705404247
+      PanMinyak_sheet_4x4_13: -5528097352756659509
+      PanMinyak_sheet_4x4_14: 6528327693695442151
+      PanMinyak_sheet_4x4_15: 1242899471250609272
+      PanMinyak_sheet_4x4_16: -9163662189630010687
+      PanMinyak_sheet_4x4_17: -752441676255439826
+      PanMinyak_sheet_4x4_18: -1312815357369561614
+      PanMinyak_sheet_4x4_19: -7832478550253735083
+      PanMinyak_sheet_4x4_2: -7350066639229118181
+      PanMinyak_sheet_4x4_20: 1736219985262363420
+      PanMinyak_sheet_4x4_21: 2435860162716049284
+      PanMinyak_sheet_4x4_22: -2726199977310934812
+      PanMinyak_sheet_4x4_23: 1193259562606084514
+      PanMinyak_sheet_4x4_24: 4087261873881757489
+      PanMinyak_sheet_4x4_25: -8399517353220552745
+      PanMinyak_sheet_4x4_26: -5166416468328330760
+      PanMinyak_sheet_4x4_27: 962462225531778397
+      PanMinyak_sheet_4x4_28: -4524458114721040151
+      PanMinyak_sheet_4x4_29: 7523587805713932290
+      PanMinyak_sheet_4x4_3: 4978331695704004220
+      PanMinyak_sheet_4x4_30: 8008397054402348361
+      PanMinyak_sheet_4x4_31: 7299857789893052873
+      PanMinyak_sheet_4x4_32: -2436988275646732884
+      PanMinyak_sheet_4x4_33: 1668397712230908616
+      PanMinyak_sheet_4x4_34: 2633102574208116860
+      PanMinyak_sheet_4x4_35: -4310093686301752960
+      PanMinyak_sheet_4x4_36: -208781511715863382
+      PanMinyak_sheet_4x4_37: 1671078215517844518
+      PanMinyak_sheet_4x4_38: 2063207113970931598
+      PanMinyak_sheet_4x4_39: -3037299778758090972
+      PanMinyak_sheet_4x4_4: 1056514305473496337
+      PanMinyak_sheet_4x4_40: 3090743938690760057
+      PanMinyak_sheet_4x4_41: -1249229001870578377
+      PanMinyak_sheet_4x4_42: 6478073687387946279
+      PanMinyak_sheet_4x4_43: -6981947204631064952
+      PanMinyak_sheet_4x4_5: -4925693538498968807
+      PanMinyak_sheet_4x4_6: -1557744213283032089
+      PanMinyak_sheet_4x4_7: -1157138271742931361
+      PanMinyak_sheet_4x4_8: 3332585797824879744
+      PanMinyak_sheet_4x4_9: -897725292271218853
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

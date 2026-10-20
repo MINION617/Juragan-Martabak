@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 120b8ead1a006ff46857d0e1e16a5d60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6169229841999321045
+    second: Panci_sheet_4x4_0
+  - first:
+      213: 4959465070339311878
+    second: Panci_sheet_4x4_1
+  - first:
+      213: 5446826054311412998
+    second: Panci_sheet_4x4_2
+  - first:
+      213: 735961806954270919
+    second: Panci_sheet_4x4_3
+  - first:
+      213: 3118276533863160079
+    second: Panci_sheet_4x4_4
+  - first:
+      213: 4500693448332319741
+    second: Panci_sheet_4x4_5
+  - first:
+      213: 7849860849205877322
+    second: Panci_sheet_4x4_6
+  - first:
+      213: -2278235586525609409
+    second: Panci_sheet_4x4_7
+  - first:
+      213: -8684372987862023147
+    second: Panci_sheet_4x4_8
+  - first:
+      213: 2411002092934201841
+    second: Panci_sheet_4x4_9
+  - first:
+      213: -3155581180925236820
+    second: Panci_sheet_4x4_10
+  - first:
+      213: 4195272409844304745
+    second: Panci_sheet_4x4_11
+  - first:
+      213: 7434354408109674292
+    second: Panci_sheet_4x4_12
+  - first:
+      213: 1524230883467609396
+    second: Panci_sheet_4x4_13
+  - first:
+      213: 6523946087934041788
+    second: Panci_sheet_4x4_14
+  - first:
+      213: 1350725163731074549
+    second: Panci_sheet_4x4_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Panci_sheet_4x4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2824e9052e726aa0800000000000000
+      internalID: -6169229841999321045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panci_sheet_4x4_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1200
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6094881843f83d440800000000000000
+      internalID: 4959465070339311878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panci_sheet_4x4_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1200
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60503981073079b40800000000000000
+      internalID: 5446826054311412998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panci_sheet_4x4_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1200
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c093c73d59a63a00800000000000000
+      internalID: 735961806954270919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panci_sheet_4x4_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0999587cf7564b20800000000000000
+      internalID: 3118276533863160079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panci_sheet_4x4_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 800
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb96c678dca57e30800000000000000
+      internalID: 4500693448332319741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panci_sheet_4x4_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 800
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a992d1ade40fc60800000000000000
+      internalID: 7849860849205877322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panci_sheet_4x4_7
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 800
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32cc7efdc41260e0800000000000000
+      internalID: -2278235586525609409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panci_sheet_4x4_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5148c7187c8ea7780800000000000000
+      internalID: -8684372987862023147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panci_sheet_4x4_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 400
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1011621a9957120800000000000000
+      internalID: 2411002092934201841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panci_sheet_4x4_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 400
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca92b0b82af1534d0800000000000000
+      internalID: -3155581180925236820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panci_sheet_4x4_11
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 400
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b44cc770a983a30800000000000000
+      internalID: 4195272409844304745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panci_sheet_4x4_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f8cbdf1f12c2760800000000000000
+      internalID: 7434354408109674292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panci_sheet_4x4_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43544cca9e7272510800000000000000
+      internalID: 1524230883467609396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panci_sheet_4x4_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe9b11d666b98a50800000000000000
+      internalID: 6523946087934041788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panci_sheet_4x4_15
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd3f55416dbeb210800000000000000
+      internalID: 1350725163731074549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6bd6ec0495000a8418b8b1623e12d8ff
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":512.0,"y":400.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Panci_sheet_4x4_0: -6169229841999321045
+      Panci_sheet_4x4_1: 4959465070339311878
+      Panci_sheet_4x4_10: -3155581180925236820
+      Panci_sheet_4x4_11: 4195272409844304745
+      Panci_sheet_4x4_12: 7434354408109674292
+      Panci_sheet_4x4_13: 1524230883467609396
+      Panci_sheet_4x4_14: 6523946087934041788
+      Panci_sheet_4x4_15: 1350725163731074549
+      Panci_sheet_4x4_2: 5446826054311412998
+      Panci_sheet_4x4_3: 735961806954270919
+      Panci_sheet_4x4_4: 3118276533863160079
+      Panci_sheet_4x4_5: 4500693448332319741
+      Panci_sheet_4x4_6: 7849860849205877322
+      Panci_sheet_4x4_7: -2278235586525609409
+      Panci_sheet_4x4_8: -8684372987862023147
+      Panci_sheet_4x4_9: 2411002092934201841
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
