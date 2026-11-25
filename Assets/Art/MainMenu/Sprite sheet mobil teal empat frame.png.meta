@@ -1,0 +1,542 @@
+fileFormatVersion: 2
+guid: a58b9325e02e3a441bf6649894ba64b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6124360229201622459
+    second: Sprite sheet mobil teal empat frame_0
+  - first:
+      213: 8749169078959334985
+    second: Sprite sheet mobil teal empat frame_1
+  - first:
+      213: -1729026565087758603
+    second: Sprite sheet mobil teal empat frame_2
+  - first:
+      213: 5809282934010490436
+    second: Sprite sheet mobil teal empat frame_3
+  - first:
+      213: -4328783105413019719
+    second: Sprite sheet mobil teal empat frame_4
+  - first:
+      213: -1460227426715879648
+    second: Sprite sheet mobil teal empat frame_5
+  - first:
+      213: 8593521241819569355
+    second: Sprite sheet mobil teal empat frame_6
+  - first:
+      213: -5817226348009686695
+    second: Sprite sheet mobil teal empat frame_7
+  - first:
+      213: 5375672649728605262
+    second: Sprite sheet mobil teal empat frame_8
+  - first:
+      213: -7354222467291492499
+    second: Sprite sheet mobil teal empat frame_9
+  - first:
+      213: -714587591928032250
+    second: Sprite sheet mobil teal empat frame_10
+  - first:
+      213: -1755724596714583977
+    second: Sprite sheet mobil teal empat frame_11
+  - first:
+      213: -6657395103863470677
+    second: Sprite sheet mobil teal empat frame_12
+  - first:
+      213: 9195987088622077850
+    second: Sprite sheet mobil teal empat frame_13
+  - first:
+      213: -8040228735583590680
+    second: Sprite sheet mobil teal empat frame_14
+  - first:
+      213: -8781474107802100224
+    second: Sprite sheet mobil teal empat frame_15
+  - first:
+      213: 7415052855635324992
+    second: Sprite sheet mobil teal empat frame_16
+  - first:
+      213: -1766437133230253182
+    second: Sprite sheet mobil teal empat frame_17
+  - first:
+      213: -7748225938371624862
+    second: Sprite sheet mobil teal empat frame_18
+  - first:
+      213: 6509596632548840371
+    second: Sprite sheet mobil teal empat frame_19
+  - first:
+      213: -1712991135360461471
+    second: Sprite sheet mobil teal empat frame_20
+  - first:
+      213: 7067488730977621967
+    second: Sprite sheet mobil teal empat frame_21
+  - first:
+      213: -322886402621049147
+    second: Sprite sheet mobil teal empat frame_22
+  - first:
+      213: 6859744275943301134
+    second: Sprite sheet mobil teal empat frame_23
+  - first:
+      213: 4497925484674206989
+    second: Sprite sheet mobil teal empat frame_24
+  - first:
+      213: 8237446007348948265
+    second: Sprite sheet mobil teal empat frame_25
+  - first:
+      213: -3833892146459297541
+    second: Sprite sheet mobil teal empat frame_26
+  - first:
+      213: 1074010649153837153
+    second: Sprite sheet mobil teal empat frame_27
+  - first:
+      213: -2559132437213005631
+    second: Sprite sheet mobil teal empat frame_28
+  - first:
+      213: -6921936559940304603
+    second: Sprite sheet mobil teal empat frame_29
+  - first:
+      213: 6155045333050503524
+    second: Sprite sheet mobil teal empat frame_30
+  - first:
+      213: -1179457649948352840
+    second: Sprite sheet mobil teal empat frame_31
+  - first:
+      213: 2032766954783616628
+    second: Sprite sheet mobil teal empat frame_32
+  - first:
+      213: -4912041055340926724
+    second: Sprite sheet mobil teal empat frame_33
+  - first:
+      213: 2640982083610862617
+    second: Sprite sheet mobil teal empat frame_34
+  - first:
+      213: 7563048711745095015
+    second: Sprite sheet mobil teal empat frame_35
+  - first:
+      213: -4097604618256494588
+    second: Sprite sheet mobil teal empat frame_36
+  - first:
+      213: 2973822956622918989
+    second: Sprite sheet mobil teal empat frame_37
+  - first:
+      213: -5569704143915321469
+    second: Sprite sheet mobil teal empat frame_38
+  - first:
+      213: 3009444216126263928
+    second: Sprite sheet mobil teal empat frame_39
+  - first:
+      213: 9112367576178977783
+    second: Sprite sheet mobil teal empat frame_40
+  - first:
+      213: 7239828337097482833
+    second: Sprite sheet mobil teal empat frame_41
+  - first:
+      213: 8571252455582721113
+    second: Sprite sheet mobil teal empat frame_42
+  - first:
+      213: -2559960913785104220
+    second: Sprite sheet mobil teal empat frame_43
+  - first:
+      213: -7289485628433627473
+    second: Sprite sheet mobil teal empat frame_44
+  - first:
+      213: -2589286923831162581
+    second: Sprite sheet mobil teal empat frame_45
+  - first:
+      213: 4825645563860325876
+    second: Sprite sheet mobil teal empat frame_46
+  - first:
+      213: -6186219726814772992
+    second: Sprite sheet mobil teal empat frame_47
+  - first:
+      213: -5217878190691581822
+    second: Sprite sheet mobil teal empat frame_48
+  - first:
+      213: -7756243966190031235
+    second: Sprite sheet mobil teal empat frame_49
+  - first:
+      213: -1676314096946098148
+    second: Sprite sheet mobil teal empat frame_50
+  - first:
+      213: -5326621511965896546
+    second: Sprite sheet mobil teal empat frame_51
+  - first:
+      213: 3602312968199755323
+    second: Sprite sheet mobil teal empat frame_52
+  - first:
+      213: -5356595076177000230
+    second: Sprite sheet mobil teal empat frame_53
+  - first:
+      213: -1927586508006889711
+    second: Sprite sheet mobil teal empat frame_54
+  - first:
+      213: 5065812645648829502
+    second: Sprite sheet mobil teal empat frame_55
+  - first:
+      213: 3728742354667207928
+    second: Sprite sheet mobil teal empat frame_56
+  - first:
+      213: -6487624490482960607
+    second: Sprite sheet mobil teal empat frame_57
+  - first:
+      213: -2118131615834478876
+    second: Sprite sheet mobil teal empat frame_58
+  - first:
+      213: 6507743156095574565
+    second: Sprite sheet mobil teal empat frame_59
+  - first:
+      213: 7578036107045836998
+    second: Sprite sheet mobil teal empat frame_60
+  - first:
+      213: -6832264075955158563
+    second: Sprite sheet mobil teal empat frame_61
+  - first:
+      213: 4477736832123788528
+    second: Sprite sheet mobil teal empat frame_62
+  - first:
+      213: -8330127338253605425
+    second: Sprite sheet mobil teal empat frame_63
+  - first:
+      213: 8169596665213607897
+    second: Sprite sheet mobil teal empat frame_64
+  - first:
+      213: 8068800377766772419
+    second: Sprite sheet mobil teal empat frame_65
+  - first:
+      213: -5097727666923261066
+    second: Sprite sheet mobil teal empat frame_66
+  - first:
+      213: -4250982365246523630
+    second: Sprite sheet mobil teal empat frame_67
+  - first:
+      213: -9158433461562275489
+    second: Sprite sheet mobil teal empat frame_68
+  - first:
+      213: 3898211875599690190
+    second: Sprite sheet mobil teal empat frame_69
+  - first:
+      213: -8374446646293539191
+    second: Sprite sheet mobil teal empat frame_70
+  - first:
+      213: 7359261071007288247
+    second: Sprite sheet mobil teal empat frame_71
+  - first:
+      213: 8136974084849301857
+    second: Sprite sheet mobil teal empat frame_72
+  - first:
+      213: 5627157369593703480
+    second: Sprite sheet mobil teal empat frame_73
+  - first:
+      213: 6086206329851845907
+    second: Sprite sheet mobil teal empat frame_74
+  - first:
+      213: 2522044678517258804
+    second: Sprite sheet mobil teal empat frame_75
+  - first:
+      213: -8547505520830943150
+    second: Sprite sheet mobil teal empat frame_76
+  - first:
+      213: 6315685532444588813
+    second: Sprite sheet mobil teal empat frame_77
+  - first:
+      213: -5302694916983525195
+    second: Sprite sheet mobil teal empat frame_78
+  - first:
+      213: 2984964827186488592
+    second: Sprite sheet mobil teal empat frame_79
+  - first:
+      213: 5353111026770376927
+    second: Sprite sheet mobil teal empat frame_80
+  - first:
+      213: 6043475296522145287
+    second: Sprite sheet mobil teal empat frame_81
+  - first:
+      213: 7398678339516007389
+    second: Sprite sheet mobil teal empat frame_82
+  - first:
+      213: -6305360586203091379
+    second: Sprite sheet mobil teal empat frame_83
+  - first:
+      213: 2289363898009313960
+    second: Sprite sheet mobil teal empat frame_84
+  - first:
+      213: -1018098284199989220
+    second: Sprite sheet mobil teal empat frame_85
+  - first:
+      213: -5172690058932253799
+    second: Sprite sheet mobil teal empat frame_86
+  - first:
+      213: -1735880346687727778
+    second: Sprite sheet mobil teal empat frame_87
+  - first:
+      213: 6304093161249890879
+    second: Sprite sheet mobil teal empat frame_88
+  - first:
+      213: 3472603346990460015
+    second: Sprite sheet mobil teal empat frame_89
+  - first:
+      213: 7201455206795894750
+    second: Sprite sheet mobil teal empat frame_90
+  - first:
+      213: -6693432051640316338
+    second: Sprite sheet mobil teal empat frame_91
+  - first:
+      213: -4210900779319102532
+    second: Sprite sheet mobil teal empat frame_92
+  - first:
+      213: -3415345349264658040
+    second: Sprite sheet mobil teal empat frame_93
+  - first:
+      213: -6774280523173760315
+    second: Sprite sheet mobil teal empat frame_94
+  - first:
+      213: 1769230264433594367
+    second: Sprite sheet mobil teal empat frame_95
+  - first:
+      213: 5613863387207160036
+    second: Sprite sheet mobil teal empat frame_96
+  - first:
+      213: -2261387564492292427
+    second: Sprite sheet mobil teal empat frame_97
+  - first:
+      213: -8832356267854535485
+    second: Sprite sheet mobil teal empat frame_98
+  - first:
+      213: 3200567616097396343
+    second: Sprite sheet mobil teal empat frame_99
+  - first:
+      213: 6641746791687457479
+    second: Sprite sheet mobil teal empat frame_100
+  - first:
+      213: 8204752264600934015
+    second: Sprite sheet mobil teal empat frame_101
+  - first:
+      213: 5295712265282037254
+    second: Sprite sheet mobil teal empat frame_102
+  - first:
+      213: -5057622579984535426
+    second: Sprite sheet mobil teal empat frame_103
+  - first:
+      213: -4570947399227220934
+    second: Sprite sheet mobil teal empat frame_104
+  - first:
+      213: 4954391603766539560
+    second: Sprite sheet mobil teal empat frame_105
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Car_TopLeft
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 627
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a48edd1d6e10ba0800000000000000
+      internalID: -6124360229201622459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_TopRight
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 750
+        width: 627
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946e3371cea4b6970800000000000000
+      internalID: 8749169078959334985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_BottomLeft
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 627
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6fab4ff734108e0800000000000000
+      internalID: -1729026565087758603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car_BottomRight
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 179
+        width: 627
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e2f61bc08be9050800000000000000
+      internalID: 5809282934010490436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 58bd60e537a8b6e46be6fac312e60341
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Car_BottomLeft: -1729026565087758603
+      Car_BottomRight: 5809282934010490436
+      Car_TopLeft: -6124360229201622459
+      Car_TopRight: 8749169078959334985
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f6cc3f9378c80c84281b699c995aa62a
+guid: e246136dd128a9e4389440a73b4fb7cf
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -890284120894481049
-    second: Bg_T1_Luar_Siang_0
+      213: 7365817937125068178
+    second: gameplay-background-day_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -115,13 +115,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bg_T1_Luar_Siang_0
+      name: gameplay-background-day_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1672
-        height: 941
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,8 +130,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 76dd9e81f4315a3f0800000000000000
-      internalID: -890284120894481049
+      spriteID: 29d4a865364a83660800000000000000
+      internalID: 7365817937125068178
       vertices: []
       indices: 
       edges: []
@@ -150,7 +150,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Bg_T1_Luar_Siang_0: -890284120894481049
+      gameplay-background-day_0: 7365817937125068178
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
