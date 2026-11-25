@@ -3,7 +3,6 @@
   <Project Path="Unity.PlasticSCM.Editor.csproj" />
   <Project Path="Unity.2D.Aseprite.Editor.csproj" />
   <Project Path="Unity.Pipeline.csproj" />
-  <Project Path="MCPForUnity.Runtime.csproj" />
   <Project Path="Unity.Pipeline.IlInterpreter.csproj" />
   <Project Path="Unity.2D.Psdimporter.Editor.csproj" />
   <Project Path="Unity.2D.IK.Runtime.csproj" />
@@ -14,7 +13,6 @@
   <Project Path="Assembly-CSharp.csproj" />
   <Project Path="Unity.2D.SpriteShape.Editor.csproj" />
   <Project Path="Unity.VisualStudio.Editor.csproj" />
-  <Project Path="MCPForUnity.Editor.csproj" />
   <Project Path="Unity.2D.Animation.Editor.csproj" />
   <Project Path="Unity.Searcher.Editor.csproj" />
   <Project Path="Unity.2D.SpriteShape.Runtime.csproj" />

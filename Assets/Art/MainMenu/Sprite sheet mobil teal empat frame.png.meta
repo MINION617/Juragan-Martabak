@@ -433,9 +433,9 @@ TextureImporter:
       name: Car_TopLeft
       rect:
         serializedVersion: 2
-        x: 0
+        x: 3
         y: 750
-        width: 627
+        width: 632
         height: 320
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -455,9 +455,9 @@ TextureImporter:
       name: Car_TopRight
       rect:
         serializedVersion: 2
-        x: 627
+        x: 635
         y: 750
-        width: 627
+        width: 632
         height: 320
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -477,9 +477,9 @@ TextureImporter:
       name: Car_BottomLeft
       rect:
         serializedVersion: 2
-        x: 0
+        x: 3
         y: 179
-        width: 627
+        width: 632
         height: 320
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -499,9 +499,9 @@ TextureImporter:
       name: Car_BottomRight
       rect:
         serializedVersion: 2
-        x: 627
+        x: 635
         y: 179
-        width: 627
+        width: 632
         height: 320
       alignment: 0
       pivot: {x: 0.5, y: 0.5}

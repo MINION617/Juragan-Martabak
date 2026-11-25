@@ -231,7 +231,7 @@ public class MartabakMenuUI : MonoBehaviour
     {
         // Project ini belum memiliki AudioMixer atau AudioSource. Sumber audio yang
         // ditambahkan kelak dapat memakai dua nilai tersimpan ini.
-        foreach (var source in FindObjectsByType<AudioSource>(FindObjectsSortMode.None))
+        foreach (var source in FindObjectsByType<AudioSource>())
         {
             bool music = source.loop || source.name.ToLowerInvariant().Contains("music");
             source.volume = music ? MusicVolume : SfxVolume;
