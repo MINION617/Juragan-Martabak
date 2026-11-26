@@ -13,6 +13,7 @@ public class MartabakMenuUI : MonoBehaviour
     [SerializeField] public UnityEngine.UI.Button pauseButton;
     [SerializeField] public UnityEngine.UI.Button mainShopButton;
     [SerializeField] public GameObject dropdown;
+    [SerializeField] public TokoUI toko;   // hanya ada di Menu Pagi (MainMenu)
 
     [Header("Panel")]
     [SerializeField] public GameObject settingsPanel;
@@ -31,6 +32,7 @@ public class MartabakMenuUI : MonoBehaviour
 
     bool menuPausedGame;
     float timeScaleBeforePause;
+    TransisiDropdown transisiDropdown;
     UnityEngine.UI.Button mainShopIllustrationButton;
     const string MusicKey = "Martabak_MusicVolume";
     const string SfxKey = "Martabak_SfxVolume";
@@ -40,11 +42,14 @@ public class MartabakMenuUI : MonoBehaviour
     void Awake()
     {
         if (dropdown) dropdown.SetActive(false);
+        if (dropdown) transisiDropdown = dropdown.AddComponent<TransisiDropdown>();
         if (settingsPanel) settingsPanel.SetActive(false);
         if (shopPanel) shopPanel.SetActive(false);
         if (pausePanel) pausePanel.SetActive(false);
         if (homeConfirmPanel) homeConfirmPanel.SetActive(false);
         ConfigurePauseOverlay();
+        // Pembelian hanya di Menu Pagi: sembunyikan tombol Toko di dropdown saat gameplay.
+        if (shopButton && !isMainMenu) shopButton.gameObject.SetActive(false);
         if (menuButton) menuButton.onClick.AddListener(ToggleMenu);
         if (settingsButton) settingsButton.onClick.AddListener(OpenSettingsFromMenu);
         if (homeButton) homeButton.onClick.AddListener(HomeFromMenu);
@@ -94,7 +99,9 @@ public class MartabakMenuUI : MonoBehaviour
     {
         if (isMainMenu)
         {
-            if (dropdown) dropdown.SetActive(!dropdown.activeSelf);
+            if (!dropdown) return;
+            if (dropdown.activeSelf) transisiDropdown.Tutup();
+            else dropdown.SetActive(true);
             return;
         }
 
@@ -122,7 +129,7 @@ public class MartabakMenuUI : MonoBehaviour
     public void OpenShop()
     {
         if (dropdown) dropdown.SetActive(false);
-        if (shopPanel) shopPanel.SetActive(true);
+        if (toko) toko.Buka();   // ShopPanel lama tidak dipakai lagi
     }
 
     public void CloseShop()

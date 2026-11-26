@@ -16,7 +16,6 @@ public static class DataPemain
     class Isi
     {
         public int uang;
-        public int reputasi = 20;
         public int tahap = 1;
         public int[] bintang = new int[JumlahTahap * LevelPerTahap];
         public List<string> itemDimiliki = new List<string>();
@@ -35,7 +34,6 @@ public static class DataPemain
     static void ResetStatic() { isi = null; UangBerubah = null; }
 
     public static int Uang => D.uang;
-    public static int Reputasi { get => D.reputasi; set { D.reputasi = Mathf.Clamp(value, 0, 100); Simpan(); } }
     public static int Tahap { get => D.tahap; set { D.tahap = Mathf.Clamp(value, 1, JumlahTahap); Simpan(); } }
 
     public static void TambahUang(int jumlah)
@@ -167,7 +165,7 @@ public static class DataPemain
     }
 
     public static string Ringkasan() =>
-        $"Uang Rp {D.uang:N0}, Reputasi {D.reputasi}, Tahap {D.tahap}, Bintang {TotalBintang()}/{D.bintang.Length * 3}, " +
+        $"Uang Rp {D.uang:N0}, Tahap {D.tahap}, Bintang {TotalBintang()}/{D.bintang.Length * 3}, " +
         $"Item [{string.Join(", ", D.itemDimiliki)}], Alat [{string.Join(", ", D.levelAlat.Select(e => $"{e.id}:{e.level}"))}], " +
         $"Cerita [{string.Join(", ", D.ceritaTerbuka)}], " +
         $"Tugas [{string.Join(", ", D.tugas.Select(e => $"{e.id}:{e.progres}{(e.diklaim ? "✓" : "")}"))}]";

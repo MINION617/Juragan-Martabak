@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Dekorasi_2
   m_EditorClassIdentifier: Assembly-CSharp::DataItemToko
   id: Dekorasi2
-  nama: Dekorasi 2
+  nama: Lampu Hias Gantung
   kategori: 3
-  sprite: {fileID: 21300000, guid: 20cd17474b4d41546b889b5569ec7926, type: 3}
+  sprite: {fileID: 21300000, guid: b442fdd2bd63bad4fb5f550a96988f06, type: 3}
   hargaDasar: 100000
   levelMaks: 1
   tahapSyarat: 0

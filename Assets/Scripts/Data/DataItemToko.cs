@@ -37,15 +37,22 @@ public class DataItemToko : ScriptableObject
         }
     }
 
-    public int SyaratReputasi => kategori == KategoriItem.Topping ? 20 + 15 * tahapSyarat : 0;
-
-    // GDD: topping dikunci reputasi; barang lain dikunci tahap.
-    public bool Terkunci => kategori == KategoriItem.Topping
-        ? DataPemain.Reputasi < SyaratReputasi
-        : DataPemain.Tahap < tahapSyarat;
+    // Semua barang dikunci tahap (reputasi tidak dipakai).
+    public bool Terkunci => DataPemain.Tahap < tahapSyarat;
 
     public bool Dimiliki => dimilikiAwal || DataPemain.PunyaItem(id);
 
     // Tidak bisa dibeli lagi: peralatan sudah level maks, barang lain sudah dimiliki.
     public bool Habis => kategori == KategoriItem.Peralatan ? DataPemain.LevelAlat(id) >= levelMaks : Dimiliki;
+
+    public bool Beli()
+    {
+        int harga = Harga;
+        if (Terkunci || Habis || !DataPemain.BisaBayar(harga)) return false;
+        if (kategori == KategoriItem.Peralatan) DataPemain.NaikkanLevelAlat(id);
+        else DataPemain.BeriItem(id);
+        // Bayar setelah barang diberikan: UangBerubah memicu kartu lain menghitung ulang harga (mis. dekorasi berikutnya).
+        DataPemain.Belanja(harga);
+        return true;
+    }
 }
