@@ -100,8 +100,8 @@ public class MartabakMenuUI : MonoBehaviour
         if (isMainMenu)
         {
             if (!dropdown) return;
-            if (dropdown.activeSelf) transisiDropdown.Tutup();
-            else dropdown.SetActive(true);
+            if (transisiDropdown.Terbuka) transisiDropdown.Tutup();
+            else transisiDropdown.Buka();
             return;
         }
 
@@ -144,13 +144,13 @@ public class MartabakMenuUI : MonoBehaviour
         timeScaleBeforePause = Time.timeScale;
         menuPausedGame = true;
         if (pausePanel) pausePanel.SetActive(true);
-        if (dropdown) dropdown.SetActive(true);
+        if (dropdown) transisiDropdown.Buka();
         Time.timeScale = 0f;
     }
 
     public void Resume()
     {
-        if (dropdown) dropdown.SetActive(false);
+        if (dropdown) transisiDropdown.Tutup();
         if (settingsPanel) settingsPanel.SetActive(false);
         if (shopPanel) shopPanel.SetActive(false);
         if (homeConfirmPanel) homeConfirmPanel.SetActive(false);

@@ -19,12 +19,25 @@ public class TransisiDropdown : MonoBehaviour
         grup = tombol.Select(t => t.TryGetComponent(out CanvasGroup g) ? g : t.gameObject.AddComponent<CanvasGroup>()).ToArray();
     }
 
-    void OnEnable() => StartCoroutine(Gerak(true));
+    public bool Terbuka { get; private set; }
+
+    void OnEnable() { Terbuka = true; StartCoroutine(Gerak(true)); }
+    void OnDisable() => Terbuka = false;
+
+    // Aman dipanggil saat animasi tutup masih berjalan: langsung berbalik membuka.
+    public void Buka()
+    {
+        if (!gameObject.activeSelf) { gameObject.SetActive(true); return; }
+        StopAllCoroutines();
+        Terbuka = true;
+        StartCoroutine(Gerak(true));
+    }
 
     public void Tutup()
     {
         if (!gameObject.activeSelf) return;
         StopAllCoroutines();
+        Terbuka = false;
         StartCoroutine(Gerak(false));
     }
 
